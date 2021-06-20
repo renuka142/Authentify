@@ -22,6 +22,7 @@ A U T H E N T I F Y  is a user authentification app that lets user login and log
   Download from [VSCode](https://code.visualstudio.com/download)
 - You would need to have [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) installed.
 - Install MongoDB [install](https://docs.mongodb.com/guides/server/install/)
+- To enable the scope of dockerisation [install](https://www.docker.com/products/docker-desktop) Docker
 
 ## Installing Dependencies
 
