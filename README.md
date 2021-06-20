@@ -39,3 +39,6 @@ A U T H E N T I F Y  is a user authentification app that lets user login and log
 - run the code using `npm start`
 
 
+## Live Demo
+
+- Live Demo Of App- [A U T H E N T I F Y](https://authentify-2021.herokuapp.com/)
