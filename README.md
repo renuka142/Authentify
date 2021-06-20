@@ -1,2 +1,2 @@
 # Authentify
-A user authentification app
+A user authentification app login/logout
