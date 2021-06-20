@@ -39,6 +39,10 @@ A U T H E N T I F Y  is a user authentification app that lets user login and log
 
 - run the code using `npm start`
 
+## Note
+
+If facing any difficulty in Dockerizing node.js app , then look into #1 issue.
+
 
 ## Live Demo
 
