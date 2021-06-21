@@ -1,31 +1,28 @@
 .navs{
-    position:absolute;
-    padding: 20px;
-    top:0;
-    right:0;
+  position:absolute;
+  padding: 20px;
+  top:0;
+  right:0;
 }
 .main_title{
-    color:white;
-    font-size: 50px;
+  color:white;
+  font-size: 50px;
 }
 #info{
-  position:absolute;
-  top: 30%;
-  left: 50%;
-  width:30em;
-  height:30em;
-  margin-top: -9em; /*set to a negative number 1/2 of your height*/
-  margin-left: -15em; 
-}
-#about{
-    padding: 1%;
+ position:absolute;
+ top: 30%;
+ left: 50%;
+ width:30em;
+ height:30em;
+ margin-top: -9em;
+ margin-left: -15em; 
 }
 .welcome_page{
-    background: url("../assets/images/login.gif") no-repeat center;
-    height: 100%;
-    background-size: cover;
+  background: url("../assets/images/login.gif") no-repeat center;
+  height: 100%;
+  background-size: cover;
 }
 .card-img-top{
-    background: url("../assets/images/auth.gif") no-repeat center ;
-    height: 100%;
+  background: url("../assets/images/auth.gif") no-repeat center ;
+  height: 100%;
 }
